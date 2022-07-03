@@ -1,4 +1,4 @@
-# pyhthonEssentials
-Python Essential Learning
+# pyhthonScripts
+Python Scripts
 
-Repository with Python excercises 
+Repository with diverse Python scripts used to learn and practice
